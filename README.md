@@ -4,13 +4,7 @@
 - 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **shubhamthete72@gmail.com**
-- 
 
-TypeScript    6 hrs 7 mins    ██████████▒░░░░░░░░░░░░░░   41.25 %
-JavaScript    5 hrs 21 mins   █████████░░░░░░░░░░░░░░░░   36.15 %
-JSON          2 hrs 38 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
-Bash          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-HTML          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ shubham-thete-b62136213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ shubham-thete-b62136213" height="30" width="40" /></a>
