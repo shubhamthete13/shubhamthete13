@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Thete</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **Spring Boot**
+
 
 - 📫 How to reach me **shubhamthete138@gmail.com**
 
